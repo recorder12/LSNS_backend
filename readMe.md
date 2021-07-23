@@ -11,8 +11,6 @@ Urls :
 
 site url : https://lsns-backend.herokuapp.com
 
-GET users : /users
-
 POST join : /users/join
             Content-Type: application/json
 
