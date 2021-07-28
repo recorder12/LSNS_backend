@@ -1,5 +1,5 @@
 
-Location based SNS service (Backend)
+# Location based SNS service (Backend)
         
         The app service provides a platform to share photos of users depending on where they were taken. 
         Users can share images of landmarks and cool images taken at unexpected locations on Google Maps. 
@@ -7,7 +7,7 @@ Location based SNS service (Backend)
         user login and photos at specific locations.
         
         
-Urls :
+# Urls :
 
 site url : https://lsns-backend.herokuapp.com
 
