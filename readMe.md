@@ -1,7 +1,7 @@
 
 # Location based SNS service (Backend)
         
-        The app service provides a platform to share photos of users depending on where they were taken. 
+        The app service provides a platform to share photos of users depending on where they took. 
         Users can share images of landmarks and cool images taken at unexpected locations on Google Maps. 
         This service consists of iOS and backend development. This backend server provides services for 
         user login and photos at specific locations.
